@@ -8,9 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-
-## About CollectionBuilder-Sheets
+{% include feature/jumbotron.html objectid="/object/img/beachcombers.jpg %}
 
 This collection is a series of images from my personal photos. Each one is focused on a different type of body of water. From the tags you will be able to see different types of images and where they were made. Thank you for viewing. 
 
